@@ -1,17 +1,9 @@
-	Schone Welt 16px contains a mixture of textures from Minetest_Game default, the torch is from AD Reforged, as well as custom creations by TumeniNodes.
-	This presents a need to list at least 2 separate licenses so far, and one credits mention:
+	Schone Welt 16px contains a mixture of textures from Minetest_Game default, as well as custom creations by TumeniNodes.
+	This presents a need to list at 2 separate licenses:
+	Tools, Items, and obsidan textures fall under Minetest Default Textures License:
 
- -- Textures by TumeniNodes are (CC BY-NC-SA 4.0)
-For more info visit https://creativecommons.org/licenses/by-nc-sa/4.0/
-
- *-- Torch from AD Reforged: AD Reforged was developed by TheVoid1313.  All textures from the 1.8 beta are all his work and I make no claim on their authorship. I have only created the textures for the completion of 1.8 and subsequent MC releases. 
-
-I have recycled some of the beautiful textures from Gaming Lord/Bradley Padriga (http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1224403).  They are modified to fit in but the ideas behind the textures are his, so credit is appropriate.
-
-With TheVoid1313 retiring from Minecraft I requested to take on his work.  This has been kindly granted.  I will strive to keep this pack true to its original concepts and beauty. With AD Reforged TheVoid1313 set an ambitious agenda, provide an artistically challenging pack with low repetitiveness not using any mods, just the new native facilities in Minecraft itself.  For the techy among us make it look CTMed without MCPatcher or Optifine.  I love it!
-
-I will work hard to keep the excellent resource pack alive.
- - kyctarniq--*
+ -- Textures by TumeniNodes are (CC BY-SA 3.0)
+For more info visit https://creativecommons.org/licenses/by-sa/3.0/
 
 -- Minetest Default Textures:
  Minetest Game mod: default
